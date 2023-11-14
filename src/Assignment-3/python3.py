@@ -6,4 +6,4 @@ for i in range(n):
     a,b =b,a+b
 
 
-print("git")
+print(5+6)
