@@ -6,3 +6,6 @@ while i<=b:
     expo=expo*a
     i+=1
 print(a,"^",b,"=",expo)
+
+print("Hello")
+print("Ashwath") 
