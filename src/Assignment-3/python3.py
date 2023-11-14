@@ -8,3 +8,8 @@ for i in range(n):
 print("Ashwath")
 print("git")
 print("code")
+
+l=int(input("Enter the length: "))
+b=int(input("Enter the bredth: "))
+perimeter=2*(l+b)
+perimeter
