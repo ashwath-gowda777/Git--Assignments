@@ -7,3 +7,5 @@ for i in range(n):
 
 
 print("git")
+print("code")
+
