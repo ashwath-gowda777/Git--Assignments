@@ -9,5 +9,3 @@ while i<=x or i<=y:
 print(hcf)
 lcm=hcf*(x//hcf)*(y//hcf)
 print()
-
-#Above code is complete.
