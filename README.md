@@ -4,7 +4,7 @@
 
 2. Q2:Cloned, created/switched branches, made changes, merged, and pushed to GitHub.
 
-3. Q3:Created feature branch, made changes, pushed, created pull request, resolved conflicts with `git rebase`.
+3. Q3:Created feature branch, made changes, pushed, created pull request, resolved conflicts with git rebase.
 
 4. Q4:Created feature branch, made multiple commits, identified cherry-pick commits, and applied them.
 
