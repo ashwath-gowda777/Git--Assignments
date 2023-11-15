@@ -9,4 +9,3 @@ print(a,"^",b,"=",expo)
 
 print("Hello")
 print("Ashwath") 
-
