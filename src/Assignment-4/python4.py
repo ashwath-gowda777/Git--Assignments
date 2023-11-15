@@ -9,3 +9,8 @@ t=(1,2,3,4,5,6,7,8,7)
 st="Ashwath gowda"
 z={}
 print(type(a),type(b),type(c),type(d),type(e),type(s),type(l),type(t),type(st),type(z))
+
+
+
+print(" cherry-pick 1")
+
