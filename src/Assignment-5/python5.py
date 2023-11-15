@@ -8,3 +8,5 @@ for i in range(1,num+1):
         odd_sum=odd_sum+i
 print("sum of even integers: ",even_sum)
 print("sum of odd integers : ",odd_sum)
+
+#Ansible
